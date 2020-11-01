@@ -1,0 +1,4 @@
+https://terryngari.github.io/muthoni_portfolio
+
+Secondary color: #BC8C48
+Primary color: #444

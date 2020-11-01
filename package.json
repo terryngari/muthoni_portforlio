@@ -1,0 +1,17 @@
+{
+  "name": "muthoni_portfolio",
+  "version": "1.0.0",
+  "description": "A responsive portfolio website by Muthoni",
+  "main": "index.js",
+  "homepage": "https://terryngari.github.io/muthoni_portfolio",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Muthoni Ngari",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "node-sass": "^4.14.1"
+  }
+}
